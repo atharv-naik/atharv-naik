@@ -29,6 +29,15 @@ He/Him
 
 I enjoy watching anime and also do some gaming in my free time.
 
+## 🚀 Stats
+
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=atharv-naik&theme=github-compact" alt="Your Name's Activity Graph" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharv-naik&color=green&style=flat-square&label=Profile+Views" alt="Your Name's Profile Views" />
+</p>
 
 <!--
 **atharv-naik/atharv-naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
