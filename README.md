@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/atharv__naik" target="blank"><img src="https://img.shields.io/twitter/follow/atharv__naik?logo=twitter&style=for-the-badge" alt="atharv__naik" /></a> </p>
 
-- 🔭 I’m currently working on [chess-engine](https://github.com/atharv-naik/chess-engine)
+- 🔭 I’m currently working on [PlayTube](https://github.com/atharv-naik/PlayTube)
 
-- 🌱 I’m currently learning **Django, NLP, Audio processing**
+- 🌱 I’m currently learning **Django, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://atharv-naik.github.io](https://atharv-naik.github.io)
 
