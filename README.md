@@ -1,70 +1,68 @@
+# Hello there 👋
 
-<div align="center">
-<!--   <img align='center' src="https://i.imgur.com/c7GmAJf.png" width="1000" /> -->
-  <h1> <img src="https://user-images.githubusercontent.com/33006597/115469137-5d2a8980-a234-11eb-84c7-2963f40c3273.gif" width="40px"> Hey, I'm Atharv Naik <img src="https://user-images.githubusercontent.com/33006597/115468619-a1695a00-a233-11eb-863b-2bffc42245a2.gif" width="40px">  
-</h1>
-</div>
-<h3 align="center">A passionate backend & ML developer</h3>
+![Visitors](https://komarev.com/ghpvc/?username=atharv-naik&label=Visitors&color=0e75b6&style=flat)
+[![Email Badge](https://img.shields.io/badge/Email-Contact_Me-green?style=flat&logo=gmail&labelColor=3A3B3C&color=62F1CD)](mailto:me@atharvnaik.com)
+<!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv-naik&label=Profile%20views&color=0e75b6&style=flat" alt="atharv-naik" /> </p>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<p>
-<p align="left"> <a href="https://twitter.com/atharv__naik" target="blank"><img src="https://img.shields.io/twitter/follow/atharv__naik?logo=twitter&style=for-the-badge" alt="atharv__naik" /></a> </p>
-<img align='right' src="https://user-images.githubusercontent.com/33006597/115854348-7006af00-a42a-11eb-9b85-309cc8c849bc.gif" width="400" />
-  <p align="left">
-    
-- 🔭 I’m currently working on [PlayTube](https://github.com/atharv-naik/PlayTube)
 
-- 🌱 I’m currently learning **Django, NodeJs**
+class SoftwareDeveloper:
 
-- 👨‍💻 All of my projects are available at [https://atharv-naik.github.io](https://atharv-naik.github.io)
+    def __init__(self):
+        self.name = "Atharv Naik"
+        self.role = "Backend Software Developer"
+        self.languages_spoken = ["ma_IN", "hi_IN", "en_US"]
 
-- 💬 Ask me about **DSA, Backend Dev, ML**
+    def say_hi(self):
+        print("Thanks for visiting! Hope you find my work interesting.")
 
-- 📫 How to reach me **atharvn317@gmail.com**
 
-- ⚡ Fun fact **I enjoy watching anime in my free time :)**
-  </p>
-</p>
+me = SoftwareDeveloper()
+me.say_hi()
+```
 
-<h3 align="">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atharv__naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharv__naik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atharvnaik317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvnaik317" height="30" width="40" /></a>
-<a href="https://kaggle.com/naikatharv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naikatharv" height="30" width="40" /></a>
-<a href="https://instagram.com/atharvnaik__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharvnaik__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/atharv317" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atharv317" height="30" width="40" /></a>
-</p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv-naik&show_icons=true&locale=en&layout=compact" alt="atharv-naik" />
+## 🔧 Technologies & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Programming Languages:**
 
-<!-- <p align="center">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv-naik&show_icons=true&locale=en&layout=compact" alt="atharv-naik" />
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv-naik&show_icons=true&locale=en" alt="atharv-naik" />
+**Frameworks & Libraries:**
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-naik&" alt="atharv-naik" />
-</p> -->
+![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688?style=flat&logo=FastAPI)
+![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask)
+![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow)
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql)
+
+**Cloud & DevOps:**
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws)
+![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3)
+![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker)
+![Docker Compose](https://img.shields.io/badge/DevOps-Docker_Compose-informational?style=flat&logo=docker)
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=atharv-naik&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/atharv-naik/PlayTube">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atharv-naik&repo=PlayTube&show_icons=true&line_height=32&description_lines_count=2&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PlayTube" />
+</a>
+
+<a href="https://github.com/atharv-naik/InlineGPT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atharv-naik&repo=InlineGPT&show_icons=true&line_height=32&description_lines_count=2&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="InlineGPT" />
+</a>
+
+## 🏅 Badges
 
 [![An image of @atharvnaik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atharvnaik)](https://holopin.io/@atharvnaik)
-
-
-
-
-
-<!--
-**atharv-naik/atharv-naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
